@@ -1,7 +1,8 @@
 # Security Report
 
 ## Scan Result
-```
+
+```txt
 Host: 192.168.1.100
 
 Port: 22
